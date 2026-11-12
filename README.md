@@ -13,3 +13,9 @@ Crea un programa que muestre por pantalla los siguientes resultados:
 6. Productos con IVA : esos precios son sin IVA -que gran error-, incluye un nuevo atributo 'precioIVA' siendo el valor el calculo de $precio*1.21$
 
 7. Crea un fichero CSV, llamado contabilidad_a.csv donde cada muestra sea: producto y precioIVA.
+
+
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/andresm-santullog/miprimerproyectotecno.git
+git push -u origin main

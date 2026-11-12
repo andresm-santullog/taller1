@@ -34,6 +34,8 @@ with open('data.json', 'r', encoding='utf-8') as file:
     f"{bigbuyer} es quien más productos ha comprado, "
     f"con un total de {bigbuyerquant} artículos.")
 
+    #producto mas caro y mas barato: comparamos los productos de todos los usuarios para ver cuales tienen valores extremos
+    
 
 # print(data)
 
